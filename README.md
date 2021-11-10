@@ -10,20 +10,20 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Martin's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Mein Name ist Martin Alter und ich bin IT-Consultant für Microsoft 365 und Leiter Competence Center Microsoft Consulting bei der [Communardo Software GmbH](https://www.communardo.de). 
+Ich möchte mit der 100DaysOfCloud Challenage ein neues Format ausprobieren um in ein Thema tiefer einzusteigen bzw. Wissen zu erweitern und zu vertiefen. Durch die Dokumentation und Nachvollziehbarkeit soll mehr Struktur und Reflexion möglich sein.
 
-[✍️ Introduce yourself]
+Ziele sind:
+- neues Wissen erlangen
+- Dokumentation der Lerninhalte
+- Kontakt und Interaktion mit der Community
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Social Media:
+- [Martin Alter @ Twitter](https://twitter.com/altermartin)
+- [Martin Alter @ LinkedIn](https://www.linkedin.com/in/martin-alter)
+- [Martin Alter personal Blog](https://martinalter.de)
 
 ## Stepping out the door
 
