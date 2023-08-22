@@ -5,11 +5,9 @@
 
 ## Social Proof
 
-![Social Media Picture #100DaysOfCloud](Journey/001/#100DaysOfCloud - Day 1.png)
+[Social Media Picture #100DaysOfCloud](Journey/001/#100DaysOfCloud - Day 1.png)
 
 Social Media:
 - [Martin Alter @ Twitter](https://twitter.com/altermartin)
 - [Martin Alter @ LinkedIn](https://www.linkedin.com/in/martin-alter)
 - [Martin Alter personal Blog](https://martinalter.de)
-
-[link](link)
