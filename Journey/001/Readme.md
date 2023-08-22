@@ -6,7 +6,7 @@
 ## Social Proof
 
 <p align="center">
-  <img src="Journey/001/100DaysOfCloud - Day 1.jpg">
+  <img src="100DaysOfCloud - Day 1.jpg">
 </p>
 
 
