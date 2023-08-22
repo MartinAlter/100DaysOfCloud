@@ -6,7 +6,7 @@
 <ul>
   <li>update my repository</li>
   <li>setup templates and basic settings</li>
-  <li>cheat at [jonnychipz](https://github.com/jonnychipz/)</li>
+  <li>cheat at <a href="https://jonnychipz.com/">Jonnychipz</a></li>
 </ul>
 
 <h2>Social Proof</h2>
