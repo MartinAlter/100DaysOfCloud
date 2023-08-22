@@ -11,7 +11,7 @@
 
 <h2>Social Proof</h2>
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/001/100DaysOfCloud%20-%20Day%201.jpg">
 </p>
 
 <h2>Follow me</h2>
