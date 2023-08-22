@@ -5,11 +5,7 @@
 
 ## Social Proof
 
-<p align="center">
-  <img src="100DaysOfCloud - Day 1.jpg">
-</p>
-
-
+[Social Media Picture #100DaysOfCloud](Journey/001/#100DaysOfCloud - Day 1.png)
 
 Social Media:
 - [Martin Alter @ Twitter](https://twitter.com/altermartin)
