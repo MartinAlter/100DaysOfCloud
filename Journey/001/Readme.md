@@ -18,7 +18,7 @@
 Social Media
 <ul>
   <li><a href="https://twitter.com/altermartin">Martin Alter @ Twitter</a></li>
-  <li><a href="https://www.linkedin.com/in/martin-alter">Martin Alter @ LinkedIn]</a></li>
+  <li><a href="https://www.linkedin.com/in/martin-alter">Martin Alter @ LinkedIn</a></li>
   <li><a href="https://instagram.com/martinalter.de">Martin Alter @ Instagram</a></li>
-  <li><a href="https://martinalter.de">Martin Alter personal Blog</a></li>
+  <li><a href="https://martinalter.de">Martin Alter @ Blog</a></li>
 </ul>
