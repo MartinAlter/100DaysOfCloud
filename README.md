@@ -1,16 +1,15 @@
 <p align="center">
   <img src="banner.png">
 </p>
-
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
+<h2>The Challenge</h2>
+1. Read about the challenge and register at <a href="https://100DaysOfCloud.com">#100DaysOfCloud.com</a>
+2. Join the <a href="https://discord.gg/c6Db8nY">Discord Channel</a>
+3. Copy the <a href=https://github.com/100DaysOfCloud/100DaysOfCloud/generate">100DaysOfCloud/100DaysOfCloud Journey Template]</a>
+4. Use the different templates to document the progress
 5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+4. If you need ideas go to <a href="https://github.com/100DaysOfCloud/100DaysOfCloudIdeas">#100DaysOfCloudIdeas</a>
 
-## Martin's Cloud Journey
+<h2>Martin's Cloud Journey</h2>
 
 Hi 👋, I’m @MartinAlter and I’m working as Head of Microsoft Consulting at Communardo Software GmbH. Since I was a teenager I’m interested in infrastructure, server deployment, application management and datacenter concepts overall operating systems. As a speaker at Office365 MeetUp Dresden, I love to share knowledge and have discussions about the new stuff in IT, specifically in Microsoft and Cloud technology.
 
@@ -22,15 +21,22 @@ My carrier was started as a trainee at SLUB Dresden (Sächsische Landesbibliothe
 📫 How to reach me
 
 Social Media:
-- [Martin Alter @ Twitter](https://twitter.com/altermartin)
-- [Martin Alter @ LinkedIn](https://www.linkedin.com/in/martin-alter)
-- [Martin Alter personal Blog](https://martinalter.de)
+<ul>
+  <li><a href="https://twitter.com/altermartin">Martin Alter @ Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/martin-alter">Martin Alter @ LinkedIn</a></li>
+  <li><a href="https://instagram.com/martinalter.de">Martin Alter @ Instagram</a></li>
+  <li><a href="https://martinalter.de">Martin Alter personal Blog</a></li>
+</ul>
 
-## My core rules
-- follow the challange from monday to friday
-- on my holliday is try to follow but there is no must
-- focus on Azure, Micosoft 365 and architecture 
-## Stepping out the door
+<h2>My core rules</h2>
+<ul>
+  <li>follow the challange from monday to friday</li>
+  <li>on my holliday is try to follow but there is no must</li>
+  <li>focus on Azure, Micosoft 365 and architecture </li>
+</ul>
+
+
+<h2>Stepping out the door</h2>
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
@@ -43,7 +49,7 @@ Social Media:
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## Walking down the road
+<h2>Walking down the road</h2>
 
 - [ ] ☁️ 11 > [](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [](Journey/012/Readme.md)
@@ -56,7 +62,7 @@ Social Media:
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
-## Crossing the bridge
+<h2> Crossing the bridge</h2>
 
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
@@ -69,7 +75,7 @@ Social Media:
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
-## Into the bushy, thorny forest
+<h2> Into the bushy, thorny forest</h2>
 
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
@@ -82,7 +88,7 @@ Social Media:
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
 
-## Trekking the dunes
+<h2>Trekking the dunes</h2>
 
 - [ ] ☁️ 41 > [](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [](Journey/042/Readme.md)
@@ -95,7 +101,7 @@ Social Media:
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
-## Winding through the canyons
+<h2> Winding through the canyons</h2>
 
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
@@ -108,7 +114,7 @@ Social Media:
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
-## Stumbling through the caves
+<h2> Stumbling through the caves</h2>
 
 - [ ] ☁️ 61 > [](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [](Journey/062/Readme.md)
@@ -121,7 +127,7 @@ Social Media:
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
-## Resting at the Lagoon
+<h2> Resting at the Lagoon</h2>
 
 - [ ] ☁️ 71 > [](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [](Journey/072/Readme.md)
@@ -134,7 +140,7 @@ Social Media:
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
-## Up into the mountains
+<h2> Up into the mountains</h2>
 
 - [ ] ☁️ 81 > [](Journey/081/Readme.md)
 - [ ] ☁️ 82 > [](Journey/082/Readme.md)
@@ -147,7 +153,7 @@ Social Media:
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
-## Into the sky to touch the cloud!
+<h2> Into the sky to touch the cloud!</h2>
 
 - [ ] ☁️ 91 > [](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
