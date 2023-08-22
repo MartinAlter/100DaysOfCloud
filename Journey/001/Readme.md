@@ -5,7 +5,10 @@
 
 ## Social Proof
 
-![Social Media picture](Journey/001/100DaysOfCloud - Day 1.jpg)
+<p align="center">
+  <img src="Journey/001/100DaysOfCloud - Day 1.jpg">
+</p>
+
 
 
 Social Media:
