@@ -1,7 +1,9 @@
 ![Logo Martin Alter Website](https://martinalterhome.files.wordpress.com/2020/12/cropped-logo-martin-alter-rgb.jpg)
 
 ## Summary what I have done
-
+- update my repository
+- setup templates and basic settings
+- cheat at @jonnychipz
 
 ## Social Proof
 <p align="center">
