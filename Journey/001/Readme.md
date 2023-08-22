@@ -1,18 +1,24 @@
-![Logo Martin Alter Website](https://martinalterhome.files.wordpress.com/2020/12/cropped-logo-martin-alter-rgb.jpg)
-
-## Summary of what I have done
-- update my repository
-- setup templates and basic settings
-- cheat at [jonnychipz](https://github.com/jonnychipz/)
-
-## Social Proof
 <p align="center">
-  <img src="100DaysOfCloud - Day 1.jpg">
+  <img src="https://martinalterhome.files.wordpress.com/2020/12/cropped-logo-martin-alter-rgb.jpg">
 </p>
 
-## Follow me
-Social Media:
-- [Martin Alter @ Twitter](https://twitter.com/altermartin)
-- [Martin Alter @ LinkedIn](https://www.linkedin.com/in/martin-alter)
-- [Martin Alter @ Instagram](https://instagram.com/martinalter.de)
-- [Martin Alter personal Blog](https://martinalter.de)
+<h2>Summary of what I have done</h2>
+<ul>
+  <li>update my repository</li>
+  <li>setup templates and basic settings</li>
+  <li>cheat at [jonnychipz](https://github.com/jonnychipz/)</li>
+</ul>
+
+<h2>Social Proof</h2>
+<p align="center">
+  <img src="">
+</p>
+
+<h2>Follow me</h2>
+Social Media
+<ul>
+  <li>[Martin Alter @ Twitter](https://twitter.com/altermartin)</li>
+  <li>[Martin Alter @ LinkedIn](https://www.linkedin.com/in/martin-alter)</li>
+  <li>Martin Alter @ Instagram](https://instagram.com/martinalter.de)</li>
+  <li></li>[Martin Alter personal Blog](https://martinalter.de)</li>
+</ul>
