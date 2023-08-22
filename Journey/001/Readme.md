@@ -5,7 +5,7 @@
 
 ## Social Proof
 
-![Social Media Picture #100DaysOfCloud](Journey/001/#100DaysOfCloud - Day 1.jpg)
+![Social Media Picture 100DaysOfCloud](Journey/001/#100DaysOfCloud - Day 1.jpg)
 
 
 Social Media:
