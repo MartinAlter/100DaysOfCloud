@@ -26,6 +26,10 @@ Social Media:
 - [Martin Alter @ LinkedIn](https://www.linkedin.com/in/martin-alter)
 - [Martin Alter personal Blog](https://martinalter.de)
 
+## My core rules
+- follow the challange from monday to friday
+- on my holliday is try to follow but there is no must
+- focus on Azure, Micosoft 365 and architecture 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
