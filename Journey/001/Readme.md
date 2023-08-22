@@ -5,7 +5,7 @@
 
 ## Social Proof
 
-![Journey/001/100DaysOfCloud - Day 1.jpg](https://github.com/MartinAlter/100DaysOfCloud/blob/main/Journey/001/%23100DaysOfCloud%20-%20Day%201.jpg)
+![Social Media picture](https://github.com/MartinAlter/100DaysOfCloud/blob/main/Journey/001/%23100DaysOfCloud%20-%20Day%201.jpg)
 
 
 Social Media:
