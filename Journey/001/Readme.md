@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://martinalterhome.files.wordpress.com/2020/12/cropped-logo-martin-alter-rgb.jpg)
 
 # New post title here
 
