@@ -9,7 +9,7 @@ I had take a look what Admin Units are and for what we can use is. Short: Use it
 
 <h2>Social Proof</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/#100DaysOfCloud%20-%20Day%203.jpg">
+  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/100DaysOfCloud%20-%20Day%203.jpg">
 </p>
 
 <h2>Follow me</h2>
