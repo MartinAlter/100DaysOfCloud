@@ -9,7 +9,7 @@ Today I taked a look in Roles in Entra (Azure AD). Generly I know what Roles are
 
 <h2>Social Proof</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/100DaysOfCloud%20-%20Day2.jpg">
+  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/100DaysOfCloud%20-%20Day%202.jpg">
 </p>
 
 <h2>Follow me</h2>
