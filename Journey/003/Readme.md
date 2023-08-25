@@ -5,7 +5,7 @@
 <h2>Summary of what I have done</h2>
 I had take a look what Admin Units are and for what we can use is. Short: Use it if you want to seperate user, group or device management. At the moment there are no more azure resources you can manage :-(
 
-<a href="https://martinalter.de/?p=550">Detailsin my Blog</a>
+<a href="https://martinalter.de/?p=567">Detailsin my Blog</a>
 
 <h2>Social Proof</h2>
 <p align="center">

@@ -1,52 +1,22 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<p align="center">
+  <img src="https://martinalterhome.files.wordpress.com/2020/12/cropped-logo-martin-alter-rgb.jpg">
+</p>
 
-# New post title here
+<h2>Summary of what I have done</h2>
+Today I had less time and I take a shor look to Entra ID principals
 
-## Introduction
+<a href="https://martinalter.de/?p=567">Detailsin my Blog</a>
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+<h2>Social Proof</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/100DaysOfCloud%20-%20Day%204.jpg">
+</p>
 
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+<h2>Follow me</h2>
+Social Media
+<ul>
+  <li><a href="https://twitter.com/altermartin">Martin Alter @ Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/martin-alter">Martin Alter @ LinkedIn</a></li>
+  <li><a href="https://instagram.com/martinalter.de">Martin Alter @ Instagram</a></li>
+  <li><a href="https://martinalter.de">Martin Alter @ Blog</a></li>
+</ul>
