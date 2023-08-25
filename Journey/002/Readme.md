@@ -5,7 +5,7 @@
 <h2>Summary of what I have done</h2>
 Today I taked a look in Roles in Entra (Azure AD). Generly I know what Roles are and how to use it, but some detail I  have learned what I did not know before.
 
-<a href="https://martinalter.de/?p=550">Detailsin my Blog</a>
+<a href="https://martinalter.de/?p=550">Details in my Blog</a>
 
 <h2>Social Proof</h2>
 <p align="center">

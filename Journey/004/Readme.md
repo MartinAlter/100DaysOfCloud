@@ -5,7 +5,7 @@
 <h2>Summary of what I have done</h2>
 Today I had less time and I take a shor look to Entra ID principals
 
-<a href="https://martinalter.de/?p=567">Detailsin my Blog</a>
+<a href="https://martinalter.de/?p=576">Details in my Blog</a>
 
 <h2>Social Proof</h2>
 <p align="center">
