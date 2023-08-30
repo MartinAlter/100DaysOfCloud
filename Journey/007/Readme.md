@@ -7,7 +7,7 @@ Over the Weekend I found the Devops Master Class from . With this Master Class I
 
 I finished the last part of DevOps Fundamentals. In the next section we step in to Git and how we use it professional :-)
 
-<a href="https://www.youtube.com/@NTFAQGuy">Main source:  John Savill's Technical Training</a>
+<a href="https://www.youtube.com/@NTFAQGuy">Main source:  John Savill's Technical Training</a><br/>
 <a href="https://martinalter.de/?p=588">Details in my Blog</a>
 
 <h2>Social Proof</h2>
