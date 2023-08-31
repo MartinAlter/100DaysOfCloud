@@ -4,7 +4,7 @@
 
 <h2>Summary of what I have done</h2>
 Over the Weekend I found the Devops Master Class from . With this Master Class I make the decision to step in the topic and look what DevOps mean (in detail :-))
-
+<br /><br />
 Today I had started with the Git Master Class. For me there is less new stuff, but sometimes it is important to remember the basics and principals.
 
 <a href="https://www.youtube.com/@NTFAQGuy">Main source:  John Savill's Technical Training</a><br/>
