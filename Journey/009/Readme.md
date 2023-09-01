@@ -12,7 +12,7 @@ In the second part of MasterClass GIT I had the focus on the structure of GIT re
 </p>
 
 <a href="https://www.youtube.com/@NTFAQGuy">Main source:  John Savill's Technical Training</a><br/>
-<a href="https://martinalter.de/?p=593">Details in my Blog</a>
+<a href="https://martinalter.de/?p=607">Details in my Blog</a>
 
 <h2>Social Proof</h2>
 <p align="center">
