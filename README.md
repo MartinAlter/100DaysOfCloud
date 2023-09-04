@@ -47,7 +47,7 @@ Social Media:
 - [ ] ☁️ 7 > [DevOps Fundamentals Part 3](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Git Part 1](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [Git Part 2](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Git Part 3](Journey/010/Readme.md)
 
 <h2>Walking down the road</h2>
 
