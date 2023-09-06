@@ -5,7 +5,7 @@
 <h2>Summary of what I have done</h2>
 Over the Weekend I found the Devops Master Class from . With this Master Class I make the decision to step in the topic and look what DevOps mean (in detail :-))
 <br /><br />
-With the reset command I understood more the different between the areas and how I can fix mistakes by working with GIT commits
+With the reset command I understood more the different between the areas and how I can fix mistakes by working with GIT commits.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/Day 11 Git reset.jpeg">
