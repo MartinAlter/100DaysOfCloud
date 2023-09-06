@@ -8,7 +8,7 @@ Over the Weekend I found the Devops Master Class from . With this Master Class I
 Today we had some basis. What is a remote repository and how we handle it. But maybe this is important to understand Git != GitHub ;-)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/Day 12 - push and pull.jpeg">
+  <img src="https://raw.githubusercontent.com/MartinAlter/100DaysOfCloud/main/Journey/pictures/Day 12 - push and pull.png">
 </p>
 
 <a href="https://www.youtube.com/@NTFAQGuy">Main source:  John Savill's Technical Training</a><br/>
